@@ -1,0 +1,11 @@
+Tabs ou espaces ?
+Tabs-> sûreté de l’indentation
+Espaces -> conversion des tabs en espace une fois le code terminé
+Préférence pour les tabs
+
+if/elif/else:
+pas trop de branches if/elif/else
+Si besoin de beaucoup, faire un système avec dictionnaire/tableaux
+
+snake case convention
+code en anglais ?
