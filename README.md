@@ -11,7 +11,6 @@
 |Choix | Pourquoi ?|
 |----|-----|
 |Tabs | sûreté de l’indentation |
-
 |Espaces | conversion des tabs en espace une fois le code terminé |
 
 Préférence choisie le : 08/06/2020 pour les tabs
